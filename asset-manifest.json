@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Abans-Quizz-App/static/css/main.c59e17ea.css",
+    "main.js": "/Abans-Quizz-App/static/js/main.44258b7f.js",
+    "static/js/453.b7086cb7.chunk.js": "/Abans-Quizz-App/static/js/453.b7086cb7.chunk.js",
+    "index.html": "/Abans-Quizz-App/index.html",
+    "main.c59e17ea.css.map": "/Abans-Quizz-App/static/css/main.c59e17ea.css.map",
+    "main.44258b7f.js.map": "/Abans-Quizz-App/static/js/main.44258b7f.js.map",
+    "453.b7086cb7.chunk.js.map": "/Abans-Quizz-App/static/js/453.b7086cb7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c59e17ea.css",
+    "static/js/main.44258b7f.js"
+  ]
+}
